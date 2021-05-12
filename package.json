@@ -1,0 +1,26 @@
+{
+  "name": "React_Library",
+  "version": "1.0.0",
+  "description": "MERN Stack Tutorial Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jon-D-Smith/React_Library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jon-D-Smith/React_Library/issues"
+  },
+  "homepage": "https://github.com/Jon-D-Smith/React_Library#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.8",
+    "validation": "0.0.1"
+  }
+}
