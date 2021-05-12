@@ -29,4 +29,4 @@ updated_date: {
 
 });
 
-module.exports = Book = mongoose.models('book', BookSchema)
+module.exports = Book = mongoose.model('book', BookSchema)
